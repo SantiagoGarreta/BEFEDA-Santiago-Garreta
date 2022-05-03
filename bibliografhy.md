@@ -73,3 +73,7 @@ https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_bas
 Hosting | Scope | Strict 
 
 https://developer.mozilla.org/es/docs/Glossary/Hoisting
+https://www.programiz.com/javascript/variable-scope
+https://www.freecodecamp.org/news/scope-and-closures-in-javascript/
+https://www.w3schools.com/js/js_strict.asp
+https://arielfuggini.com/javascript-modo-estricto/
