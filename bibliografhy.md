@@ -4,6 +4,7 @@ Bibliography
 
 Agiles Methodologies
 
+
 https://www.atlassian.com/agile
 https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
 https://eoiinconnect.com/what-is-agile-methodology/
@@ -36,3 +37,39 @@ https://www.w3schools.com/js/default.asp
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
 https://dev.to/dillionmegida/syntax-and-basic-constructs-65
 
+
+What is html? | meta-tags | Input types | Difference between HTML and XHTML
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://www.w3schools.com/tags/tag_meta.asp
+https://www.w3schools.com/html/html_form_input_types.asp
+https://www.mclibre.org/consultar/htmlcss/html/html-xhtml-diferencias.html#:~:text=HTML%20vs%20XHTML&text=En%20general%2C%20la%20sintaxis%20XHTML,que%20es%20un%20documento%20inv%C3%A1lido.
+
+Data Attributes 
+
+https://developer.mozilla.org/es/docs/Learn/HTML/Howto/Use_data_attributes
+
+
+Accessibility / Semantic 
+
+https://www.w3schools.com/html/html_accessibility.asp
+https://www.4rsoluciones.com/blog/html-la-importancia-del-codigo-semantico-2/
+
+
+SEO AND DOM 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#example
+https://digitalcubik.com/diccionario-marketing-digital/s/seo-search-engine-optimization/
+https://rockcontent.com/es/blog/que-es-seo/#:~:text=SEO%20significa%20Search%20Engine%20Optimization,como%20Google%2C%20Yahoo%20o%20Youtube.
+
+
+CSS general knowledge | Specificity | Box Model
+
+https://www.w3schools.com/css/css_specificity.asp
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+Hosting | Scope | Strict 
+
+https://developer.mozilla.org/es/docs/Glossary/Hoisting
