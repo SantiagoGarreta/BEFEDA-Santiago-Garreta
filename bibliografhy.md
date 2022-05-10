@@ -4,7 +4,6 @@ Bibliography
 
 Agiles Methodologies
 
-
 https://www.atlassian.com/agile
 https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
 https://eoiinconnect.com/what-is-agile-methodology/
@@ -14,7 +13,6 @@ Scrum
 https://scrumguides.org/scrum-guide.html
 https://www.agilest.org/scrum/why-does-scrum-work/
 https://www.dummies.com/article/business-careers-money/business/project-management/10-key-benefits-of-scrum-143117/
-
 
 GIT (branch, tags and commits, stash command and hooks)
 
@@ -37,7 +35,6 @@ https://www.w3schools.com/js/default.asp
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
 https://dev.to/dillionmegida/syntax-and-basic-constructs-65
 
-
 What is html? | meta-tags | Input types | Difference between HTML and XHTML
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -49,19 +46,16 @@ Data Attributes
 
 https://developer.mozilla.org/es/docs/Learn/HTML/Howto/Use_data_attributes
 
-
 Accessibility / Semantic 
 
 https://www.w3schools.com/html/html_accessibility.asp
 https://www.4rsoluciones.com/blog/html-la-importancia-del-codigo-semantico-2/
-
 
 SEO AND DOM 
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#example
 https://digitalcubik.com/diccionario-marketing-digital/s/seo-search-engine-optimization/
 https://rockcontent.com/es/blog/que-es-seo/#:~:text=SEO%20significa%20Search%20Engine%20Optimization,como%20Google%2C%20Yahoo%20o%20Youtube.
-
 
 CSS general knowledge | Specificity | Box Model
 
@@ -77,3 +71,51 @@ https://www.programiz.com/javascript/variable-scope
 https://www.freecodecamp.org/news/scope-and-closures-in-javascript/
 https://www.w3schools.com/js/js_strict.asp
 https://arielfuggini.com/javascript-modo-estricto/
+
+Media Queries 
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+https://chiamakaikeanyi.dev/sizing-in-css-px-vs-em-vs-rem/#:~:text=Use%20em%20only%20for%20sizing,layout%20arrangement%2C%20use%20percentage%20(%25).
+https://franciscoamk.com/unidades-de-medida-en-css/#:~:text=La%20unidad%20de%20medida%20rem,em%20basado%20en%20la%20ra%C3%ADz.
+
+Positioning 
+
+https://www.w3schools.com/css/css_positioning.asp
+https://developer.mozilla.org/es/docs/Web/CSS/position
+
+Flexbox & Grid 
+
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout
+https://www.w3schools.com/css/css_grid.asp
+https://blog.hubspot.com/website/css-grid-vs-flexbox#:~:text=CSS%20Grid%20and%20Flexbox%20are,to%20create%20one%2Ddimensional%20layouts.
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Bootstrap 
+
+https://blog.hubspot.com/website/bootstrap-css
+https://getbootstrap.com/
+
+Materialize CSS
+
+https://github.com/ORT-FIS-202103/entrega2-fattorini_garreta_wasersztein
+https://materializecss.com/
+https://www.javatpoint.com/materialize-css-tutorial
+
+What are css preprocessors
+
+https://developer.mozilla.org/es/docs/Glossary/CSS_preprocessor
+https://raygun.com/blog/css-preprocessors-examples/
+
+SASS
+
+https://sass-lang.com/
+
+OOCSS | BEM | SMACSS
+
+https://picodotdev.github.io/blog-bitix/2021/01/las-metodologias-oocss-bem-y-smacss-para-organizar-los-estilos-css/#oocss
+https://www.espai.es/blog/2016/07/metodologias-css-oocss-bem-smacss/
+
+
+Fetch API | Ajax (XHR)
