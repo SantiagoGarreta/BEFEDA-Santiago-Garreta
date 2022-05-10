@@ -1,4 +1,4 @@
-## here its the bibliografhy
+## here it is the bibliografhy
 
 Bibliography
 
