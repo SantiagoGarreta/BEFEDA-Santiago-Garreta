@@ -4,6 +4,7 @@ Bibliography
 
 Agiles Methodologies
 
+
 https://www.atlassian.com/agile
 https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
 https://eoiinconnect.com/what-is-agile-methodology/
@@ -13,6 +14,7 @@ Scrum
 https://scrumguides.org/scrum-guide.html
 https://www.agilest.org/scrum/why-does-scrum-work/
 https://www.dummies.com/article/business-careers-money/business/project-management/10-key-benefits-of-scrum-143117/
+
 
 GIT (branch, tags and commits, stash command and hooks)
 
@@ -35,6 +37,7 @@ https://www.w3schools.com/js/default.asp
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
 https://dev.to/dillionmegida/syntax-and-basic-constructs-65
 
+
 What is html? | meta-tags | Input types | Difference between HTML and XHTML
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -46,16 +49,19 @@ Data Attributes
 
 https://developer.mozilla.org/es/docs/Learn/HTML/Howto/Use_data_attributes
 
+
 Accessibility / Semantic 
 
 https://www.w3schools.com/html/html_accessibility.asp
 https://www.4rsoluciones.com/blog/html-la-importancia-del-codigo-semantico-2/
+
 
 SEO AND DOM 
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#example
 https://digitalcubik.com/diccionario-marketing-digital/s/seo-search-engine-optimization/
 https://rockcontent.com/es/blog/que-es-seo/#:~:text=SEO%20significa%20Search%20Engine%20Optimization,como%20Google%2C%20Yahoo%20o%20Youtube.
+
 
 CSS general knowledge | Specificity | Box Model
 
@@ -83,6 +89,7 @@ Positioning
 
 https://www.w3schools.com/css/css_positioning.asp
 https://developer.mozilla.org/es/docs/Web/CSS/position
+
 
 Flexbox & Grid 
 
@@ -119,3 +126,54 @@ https://www.espai.es/blog/2016/07/metodologias-css-oocss-bem-smacss/
 
 
 Fetch API | Ajax (XHR)
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
+https://programadorwebvalencia.com/cursos/javascript/ajax/
+https://lenguajejs.com/javascript/peticiones-http/fetch/
+https://web.dev/introduction-to-fetch/
+
+
+Cookies | Local Storage | Session Storage
+https://us.norton.com/internetsecurity-how-to-what-are-cookies.html
+https://netmind.net/es/cookies-vs-localstorage-cual-es-la-mejor-opcion/
+https://ed.team/blog/que-es-y-como-utilizar-localstorage-y-sessionstorage
+
+
+HTTP, it's Methods | Response Codes | Session Management
+
+https://doc.oroinc.com/api/http-methods/#:~:text=The%20primary%20or%20most%20commonly,they%20are%20utilized%20less%20frequently.&text=200%20(OK)%2C%20list%20of%20entities.
+http://redesdecomputadores.umh.es/aplicacion/HTTP.htm
+https://www.infidigit.com/blog/http-status-codes/
+https://www.securecoding.com/blog/session-management-an-overview/
+
+HTTP 2.0 | 3.0
+
+https://medium.com/@sandeep4.verma/http-1-to-http-2-to-http-3-647e73df67a8
+
+Https
+
+https://developers.google.com/search/docs/advanced/security/https?hl=es
+https://economictimes.indiatimes.com/definition/https
+
+CORS | JSONP
+
+https://www.filecloud.com/blog/using-jsonp-for-cross-domain-requests/
+https://dev.socrata.com/docs/cors-and-jsonp.html
+
+
+JSON Web Token
+
+https://www.youtube.com/watch?v=qXJ9jV-0wQ4&t=373s
+https://jwt.io/
+
+SSO | OAuth 2.0
+
+https://www.clickittech.com/tutorial/understanding-oauth2-as-a-sso/
+https://www.cloudflare.com/learning/access-management/what-is-sso/
+https://auth0.com/intro-to-iam/what-is-oauth-2/
+
+Events | Event bubbling
+
+https://www.sitepoint.com/event-bubbling-javascript/
+https://www.geeksforgeeks.org/event-bubbling-in-javascript/#:~:text=Event%20bubbling%20is%20a%20method,containing%20elements%20in%20the%20hierarchy.
+https://www.w3schools.com/js/js_events.asp
