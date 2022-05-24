@@ -166,6 +166,7 @@ JSON Web Token
 https://www.youtube.com/watch?v=qXJ9jV-0wQ4&t=373s
 https://jwt.io/
 
+
 SSO | OAuth 2.0
 
 https://www.clickittech.com/tutorial/understanding-oauth2-as-a-sso/
@@ -177,3 +178,16 @@ Events | Event bubbling
 https://www.sitepoint.com/event-bubbling-javascript/
 https://www.geeksforgeeks.org/event-bubbling-in-javascript/#:~:text=Event%20bubbling%20is%20a%20method,containing%20elements%20in%20the%20hierarchy.
 https://www.w3schools.com/js/js_events.asp
+
+OOP
+
+https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP#:~:text=Object%2Doriented%20programming%20(OOP)%20is%20a%20computer%20programming%20model,has%20unique%20attributes%20and%20behavior.
+https://refactoring.guru/es/design-patterns/singleton
+www.netmentor.es
+https://www.masqueteclas.com/articulo/el-concepto-de-clase/
+https://tecnologiandroid.com/que-es-una-clase-poo-programacion/
+https://developer.mozilla.org/en-US/docs/Glossary/Prototype-based_programming
+https://developer.mozilla.org/es/docs/Web/JavaScript/Closures
+https://www.w3schools.com/js/js_function_closures.asp
+https://www.javascripttutorial.net/javascript-closure/
+
