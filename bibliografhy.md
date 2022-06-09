@@ -166,7 +166,6 @@ JSON Web Token
 https://www.youtube.com/watch?v=qXJ9jV-0wQ4&t=373s
 https://jwt.io/
 
-
 SSO | OAuth 2.0
 
 https://www.clickittech.com/tutorial/understanding-oauth2-as-a-sso/
@@ -191,3 +190,24 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Closures
 https://www.w3schools.com/js/js_function_closures.asp
 https://www.javascripttutorial.net/javascript-closure/
 
+
+Security
+
+https://www.youtube.com/watch?v=0Bf9WikzsUI
+https://owasp.org/Top10/
+https://www.cloudflare.com/learning/ddos/glossary/denial-of-service/
+https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos
+https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting
+https://help.salesforce.com/s/articleView?id=sf.fields_about_field_validation.htm&type=5
+https://www.computerweekly.com/es/definicion/Autenticacion-multifactor-o-MFA
+
+
+Promises & Async Await
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function
+
+ES6
+
+https://www.w3schools.com/js/js_es6.asp
+https://www.programiz.com/javascript/ES6
